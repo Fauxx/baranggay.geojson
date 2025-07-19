@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barangay Sample"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [120.982, 14.604],
+            [120.983, 14.604],
+            [120.983, 14.605],
+            [120.982, 14.605],
+            [120.982, 14.604]
+          ]
+        ]
+      }
+    }
+  ]
+}
